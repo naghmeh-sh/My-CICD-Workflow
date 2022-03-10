@@ -1,0 +1,5 @@
+* @naghmeh
+*.js @naghmeh
+*.yml @naghmeh
+/public/ @asghar
+something
